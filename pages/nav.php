@@ -7,7 +7,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php">Dashboard</a>
+                <a class="navbar-brand" href="index">Dashboard</a>
             </div>
             <!-- /.navbar-header -->
 
@@ -49,22 +49,22 @@
                 <div class="sidebar-nav navbar-collapse">
                     <ul class="nav" id="side-menu">
                         <li>
-                            <a href="blog-page.php"><i class="fa fa-clipboard"></i> Blog Posts</a>
+                            <a href="blog-page"><i class="fa fa-clipboard"></i> Blog Posts</a>
                         </li>
                         <li>
-                            <a href="cover.php"><i class="fa fa-picture-o"></i> Cover Image</a>
+                            <a href="cover"><i class="fa fa-picture-o"></i> Cover Image</a>
                         </li>
                         <li>
-                            <a href="gallery.php"><i class="fa fa-file-image-o"></i> Gallery</a>
+                            <a href="gallery"><i class="fa fa-file-image-o"></i> Gallery</a>
                         </li>
                         <li>
                             <a href="#"><i class="fa fa-columns"></i> Pages<span class="fa arrow"></span></a>
                             <ul class="nav nav-second-level">
                                 <li>
-                                    <a href="home-page.php">Homepage</a>
+                                    <a href="home-page">Homepage</a>
                                 </li>
                                 <li>
-                                    <a href="about-page.php">About Us</a>
+                                    <a href="about-page">About Us</a>
                                 </li>
                                 <li>
                                     <a href="#">Services (no page)</a>
@@ -78,7 +78,10 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="email-configuration.php"><i class="fa fa-envelope-o"></i> Email Configuration</a>
+                            <a href="email-configuration"><i class="fa fa-envelope-o"></i> Email Configuration</a>
+                        </li>
+                        <li>
+                            <a href="login"><i class="fa fa-sign-out"></i> Logout</a>
                         </li>
                     </ul>
                 </div>

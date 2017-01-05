@@ -20,6 +20,12 @@
 .small-padding {
     padding: 0px 3px;
 }
+button:active {
+    outline: none !important;
+}
+button:focus {
+    outline: none !important;
+}
 /*--------------------*/
 /*		  MENU        */
 /*--------------------*/
@@ -73,7 +79,6 @@ body {
 .nav>li>a:focus, .nav>li>a:hover {
 	background-color: red;
 }
-
 
 /*
 ** top Navigationbar Buttons  
