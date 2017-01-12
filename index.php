@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="refresh" content="0;url=pages/index">
-<title>SB Admin 2</title>
+<title>Emirates Graphic</title>
 <script language="javascript">
     window.location.href = "pages/index"
 </script>
